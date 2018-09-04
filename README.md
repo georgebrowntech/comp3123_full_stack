@@ -21,3 +21,8 @@ We use Slack for collaboration. You can ask questions anyone including us or you
 Here is a direct [link to signup](https://join.slack.com/t/georgebrowntech/signup)
 
 ---
+
+
+### Labs
+
+[Week 1 lab - Sept 4th, 2018](https://docs.google.com/document/d/1g9UWPH0fBxpxD94tPlXlz2uRxeX9KubO-_zeLS2fb5U/edit?usp=sharing)
