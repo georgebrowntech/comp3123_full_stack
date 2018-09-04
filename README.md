@@ -18,5 +18,6 @@ This is where all course materials live.
 ### [Slack: georgebrowntech.slack.com](https://georgebrowntech.slack.com/) 
 
 We use Slack for collaboration. You can ask questions anyone including us or your fellow students.
+Here is a direct [link to signup](https://join.slack.com/t/georgebrowntech/signup)
 
 ---
