@@ -25,4 +25,4 @@ Here is a direct [link to signup](https://join.slack.com/t/georgebrowntech/signu
 
 ### Labs
 
-[Week 1 lab - Sept 4th, 2018](https://drive.google.com/file/d/1Y6SEG4OHj6Nlo6jc1O68glygGpnZp6n2/view?usp=sharing)
+[Week 1 lab - Sept 4th, 2018](https://docs.google.com/document/d/1dBcPl7z8HVNt7X-uIGdXDztmLyF-5PbQ6sJUmqhLPIo/edit?usp=sharing)
