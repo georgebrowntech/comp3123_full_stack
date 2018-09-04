@@ -22,6 +22,9 @@ Here is a direct [link to signup](https://join.slack.com/t/georgebrowntech/signu
 
 ---
 
+### [Outline](https://docs.google.com/document/d/1yzMQ7pUXpwpdRlsLL3ur1H8aZ3xFUg1XhEGwucsgJzE/edit?usp=sharing)
+
+---
 
 ### Labs
 
