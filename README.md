@@ -24,7 +24,7 @@ Here is a direct [link to signup](https://join.slack.com/t/georgebrowntech/signu
 
 ---
 
-### [Outline](https://docs.google.com/document/d/1yzMQ7pUXpwpdRlsLL3ur1H8aZ3xFUg1XhEGwucsgJzE/edit?usp=sharing)
+### Outline [link](https://docs.google.com/document/d/1yzMQ7pUXpwpdRlsLL3ur1H8aZ3xFUg1XhEGwucsgJzE/edit?usp=sharing)
 
 ---
 
@@ -35,4 +35,4 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 
 ### Labs
 
-[Week 1 lab - Sept 4th, 2018](https://docs.google.com/document/d/1dBcPl7z8HVNt7X-uIGdXDztmLyF-5PbQ6sJUmqhLPIo/edit?usp=sharing)
+[Week 1 lab - Sept 5th & 7th, 2018](https://docs.google.com/document/d/1dBcPl7z8HVNt7X-uIGdXDztmLyF-5PbQ6sJUmqhLPIo/edit?usp=sharing)
