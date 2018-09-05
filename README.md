@@ -26,6 +26,11 @@ Here is a direct [link to signup](https://join.slack.com/t/georgebrowntech/signu
 
 ---
 
+### Useful Links
+JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+---
+
 ### Labs
 
 [Week 1 lab - Sept 4th, 2018](https://docs.google.com/document/d/1dBcPl7z8HVNt7X-uIGdXDztmLyF-5PbQ6sJUmqhLPIo/edit?usp=sharing)
