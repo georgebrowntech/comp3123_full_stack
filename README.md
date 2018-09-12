@@ -11,6 +11,14 @@ Alla Abramova (ping me on Slack for any questions)
 
 ---
 
+### TODO
+
+Register for github account for student. It'll allow you to create for free private repos where you'll be storing your code. Here is a link: https://education.github.com/pack
+
+If you already have a GitHub account you can sign it up for student account following the same link. Slack me if you have any questions.
+
+Alla
+
 ### Tools
 
 #### [GitHub: github.com/georgebrowntech](https://github.com/georgebrowntech) 
