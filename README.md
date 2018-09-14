@@ -38,7 +38,7 @@ Here is a direct [link to signup](https://join.slack.com/t/georgebrowntech/signu
 
 ### Useful Links
 JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
+Javascritp Tutorial [link](https://www.w3schools.com/js/default.asp)
 ---
 
 ### Lecture Slides
