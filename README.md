@@ -42,7 +42,7 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 ---
 
 ### Lecture Slides
-[Week 1 Lecture] (https://drive.google.com/file/d/1d_l78O5v9tcv2vLYULRl13zSQPSPGyN9/view?usp=sharing)
+[Week 1 Lecture](https://drive.google.com/file/d/1d_l78O5v9tcv2vLYULRl13zSQPSPGyN9/view?usp=sharing)
 ---
 ### Labs
 
