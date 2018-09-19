@@ -30,7 +30,7 @@ We use Slack for collaboration. You can ask questions anyone including us or you
 Here is a direct [link to signup](https://join.slack.com/t/georgebrowntech/signup)
 
 ---
-(Updated)
+(Updated 09-16-18)
 ### Outline [link](https://docs.google.com/document/d/1yzMQ7pUXpwpdRlsLL3ur1H8aZ3xFUg1XhEGwucsgJzE/edit?usp=sharing)
 
 ---
