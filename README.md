@@ -5,7 +5,6 @@ Hey guys! Welcome to the COMP3123 Full Stack Development Course! Few things you 
 ### Instructor
 Mike Denton (ping me on Slack for any questions)
 
-
 ### TA
 Alla Abramova (ping me on Slack for any questions)
 
