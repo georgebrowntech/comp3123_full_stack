@@ -48,6 +48,8 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 
 [Week 2 Lecture](https://drive.google.com/file/d/1o5hmYKzPzbIgj_nPrCDEbhAeOEs5Qobu/view?usp=sharing)
 
+[Week 3 Lecture](https://drive.google.com/file/d/1fxHucjUyE_crwmP7toTdSIlaXWjzzNrJ/view?usp=sharing)
+
 
 ---
 ### Labs
