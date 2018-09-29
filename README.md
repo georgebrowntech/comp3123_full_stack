@@ -50,6 +50,8 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 
 [Week 3 Lecture](https://drive.google.com/file/d/1fxHucjUyE_crwmP7toTdSIlaXWjzzNrJ/view?usp=sharing)
 
+[Week 4 Lecture](https://drive.google.com/file/d/1Y1Tl3yZku4cqP3beFVJXWQMlVtvjvS3l/view?usp=sharing)
+
 ---
 ### Lab Solutions
 [Labs 1-3](https://drive.google.com/open?id=1FRo-8_CaHxKNxiCTl1QTEDHczbSDUo7y)
