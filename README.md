@@ -55,6 +55,7 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 ---
 ### Lab Solutions
 [Labs 1-3](https://drive.google.com/open?id=1FRo-8_CaHxKNxiCTl1QTEDHczbSDUo7y)
+
 [Lab 4](https://drive.google.com/drive/folders/15HQobB9e5NG69Ufq0UdRPXE-rIu6JArl?usp=sharing)
 ---
 ### Labs
