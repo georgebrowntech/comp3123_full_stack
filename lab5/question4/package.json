@@ -1,0 +1,16 @@
+{
+  "name": "question4",
+  "version": "1.0.0",
+  "main": "ping-pong.js",
+  "dependencies": {
+    "moment": "^2.22.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
