@@ -71,5 +71,5 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 
 [Week 4 lab - Sept 26 & 28th, 2018](https://docs.google.com/document/d/1a5jpjSgw3HmL_Bb-h-gIeClRx7EIdMoQ6pXI_8Zis0s/edit?usp=sharing)
 
-[Week 5 lab - Node Test](https://drive.google.com/drive/u/1/folders/1V38_7FjRsPKbyPVUlLqmlzCm4vMOoAAN)
+[Week 5 lab - Node Test](https://drive.google.com/file/d/1f0cxdgMDx8GOPRMjDqraRo-zFMudCPAA/view?usp=sharing)
 
