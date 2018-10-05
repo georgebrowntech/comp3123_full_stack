@@ -52,6 +52,8 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 
 [Week 4 Lecture](https://drive.google.com/file/d/1Y1Tl3yZku4cqP3beFVJXWQMlVtvjvS3l/view?usp=sharing)
 
+
+
 ---
 ### Lab Solutions
 [Labs 1-3](https://drive.google.com/open?id=1FRo-8_CaHxKNxiCTl1QTEDHczbSDUo7y)
@@ -68,4 +70,6 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 [Week 3 lab - Sept 19th & 21st, 2018](https://docs.google.com/document/d/1LW8Pv15w-uyvuBWL-mNk5335KBN3n7OzcNrYijG9Vu8/edit?usp=sharing)
 
 [Week 4 lab - Sept 26 & 28th, 2018](https://docs.google.com/document/d/1a5jpjSgw3HmL_Bb-h-gIeClRx7EIdMoQ6pXI_8Zis0s/edit?usp=sharing)
+
+[Week 5 lab - Node Test] (https://drive.google.com/drive/u/1/folders/1V38_7FjRsPKbyPVUlLqmlzCm4vMOoAAN)
 
