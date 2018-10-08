@@ -52,6 +52,7 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 
 [Week 4 Lecture](https://drive.google.com/file/d/1Y1Tl3yZku4cqP3beFVJXWQMlVtvjvS3l/view?usp=sharing)
 
+[Week 5 Lecture](https://drive.google.com/file/d/1n5-dUfSeKT0o29ulS-Mnbs3ZvFY1mzPE/view?usp=sharing)
 
 
 ---
@@ -73,5 +74,4 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 
 [Week 5 lab - Node Test](https://drive.google.com/file/d/1f0cxdgMDx8GOPRMjDqraRo-zFMudCPAA/view?usp=sharing)
 
-[Student Enrolled - Friday Lab](https://drive.google.com/file/d/1iVaxooZBxpCnRYy33QHd4tdjZ-U4L7qT/view?usp=sharing)
 
