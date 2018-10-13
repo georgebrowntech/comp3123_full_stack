@@ -58,11 +58,11 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 
 ---
 ### Lab Solutions
-[Labs 1](https://drive.google.com/file/d/1zVSCFRg0p1-2c46_REf8y8ChRC9luJgj/view?usp=sharing)
+[Lab 1](https://drive.google.com/file/d/1zVSCFRg0p1-2c46_REf8y8ChRC9luJgj/view?usp=sharing)
 
-[Labs 2](https://drive.google.com/file/d/1YQ7OfLqWxRFtdyCyZ4Mwckd_RY84zilK/view?usp=sharing)
+[Lab 2](https://drive.google.com/file/d/1YQ7OfLqWxRFtdyCyZ4Mwckd_RY84zilK/view?usp=sharing)
 
-[Labs 3](https://drive.google.com/file/d/1X4vAcLLLQk7krnpYF3EzTCKyIeLS-55F/view?usp=sharing)
+[Lab 3](https://drive.google.com/file/d/1X4vAcLLLQk7krnpYF3EzTCKyIeLS-55F/view?usp=sharing)
 
 [Lab 4](https://drive.google.com/file/d/1RkJSiY6mCygTadquQgf_r1cfuDrpPlYj/view?usp=sharingg)
 
