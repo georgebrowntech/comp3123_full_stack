@@ -55,6 +55,7 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 [Week 5 Lecture](https://drive.google.com/file/d/1n5-dUfSeKT0o29ulS-Mnbs3ZvFY1mzPE/view?usp=sharing)
 
 [Week 6 Lecture](https://drive.google.com/file/d/19mDDVsmUpK_4uvKm653Xt75yr6SvRl_u/view?usp=sharing)
+
 ---
 ### Lab Solutions
 [Labs 1-3](https://drive.google.com/open?id=1FRo-8_CaHxKNxiCTl1QTEDHczbSDUo7y)
@@ -64,6 +65,7 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 [Lab 5](https://drive.google.com/file/d/1WBgc4zxFMKzTSYH9lpH4I6zhcCtXP7G5/view?usp=sharing)
 
 [Lab 6](https://drive.google.com/file/d/1wRZSkNLxpNp3_ybfzlxzM0HpWzlGssFe/view?usp=sharing)
+
 ---
 ### Labs
 
