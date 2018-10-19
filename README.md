@@ -70,7 +70,6 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 
 [Lab 6](https://drive.google.com/file/d/1wRZSkNLxpNp3_ybfzlxzM0HpWzlGssFe/view?usp=sharing)
 
-[Lab 7](https://drive.google.com/file/d/1HBgbwHGb6wlAAn8_QxmViQgOxgN1tFm3/view?usp=sharing)
 
 ---
 ### Labs
@@ -86,3 +85,5 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 [Week 5 lab - Node Test](https://drive.google.com/file/d/1f0cxdgMDx8GOPRMjDqraRo-zFMudCPAA/view?usp=sharing)
 
 [Week 6 lab - Oct 10 & 12, 2018](https://drive.google.com/file/d/1lvGPZch2aT4zKFjH6lBOtrbaHcQQe_uq/view?usp=sharing)
+
+[Week 7 lab - Oct 17 & 19, 2018](https://drive.google.com/file/d/1HBgbwHGb6wlAAn8_QxmViQgOxgN1tFm3/view?usp=sharing)
