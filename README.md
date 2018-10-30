@@ -91,7 +91,7 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 ---
 ### Project
 
-[Project Requirements (DRAFT)]
+Project Requirements in progress. Team will be 1-2 students. Choice of one of the following:
 
 [Video Store Mockups](https://drive.google.com/file/d/1b0LjkTQVOjU20nvKMAq0Ag8Af-VR3Pxd/view?usp=sharing)
 
