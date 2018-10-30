@@ -87,3 +87,12 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 [Week 6 lab - Oct 10 & 12, 2018](https://drive.google.com/file/d/1lvGPZch2aT4zKFjH6lBOtrbaHcQQe_uq/view?usp=sharing)
 
 [Week 7 lab - Oct 17 & 19, 2018](https://drive.google.com/file/d/1HBgbwHGb6wlAAn8_QxmViQgOxgN1tFm3/view?usp=sharing)
+
+---
+### Project
+
+[Project Requirements (DRAFT)]
+
+[Video Store Mockups](https://drive.google.com/file/d/1b0LjkTQVOjU20nvKMAq0Ag8Af-VR3Pxd/view?usp=sharing)
+
+[Gamer Lobby Mockups](https://drive.google.com/file/d/1flHfBOk2yIEH1vSZFerSRm8Ku_Nh5AQx/view?usp=sharing)
