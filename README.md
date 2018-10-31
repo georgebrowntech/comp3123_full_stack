@@ -88,7 +88,7 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 
 [Week 7 lab - Oct 17 & 19, 2018](https://drive.google.com/file/d/1HBgbwHGb6wlAAn8_QxmViQgOxgN1tFm3/view?usp=sharing)
 
-[Week 8 lab - Oct 31 & Nov 2nd](https://drive.google.com/file/d/1pg4CGxbmPaCIH54zbgX2LqqzTXvxaBqs/view?usp=sharing)
+[Week 8 lab - Oct 31 & Nov 2nd](https://docs.google.com/document/d/1IEbP8JMG-7NE_ecwHucYvRG4tmqN_M5to6bjuwA9Qys/edit?usp=sharing)
 
 ---
 ### Project
