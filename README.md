@@ -44,17 +44,19 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 ---
 
 ### Lecture Slides
-[Week 1 Lecture](https://drive.google.com/file/d/1d_l78O5v9tcv2vLYULRl13zSQPSPGyN9/view?usp=sharing)
+[1 Lecture](https://drive.google.com/file/d/1d_l78O5v9tcv2vLYULRl13zSQPSPGyN9/view?usp=sharing)
 
-[Week 2 Lecture](https://drive.google.com/file/d/1o5hmYKzPzbIgj_nPrCDEbhAeOEs5Qobu/view?usp=sharing)
+[2 Lecture](https://drive.google.com/file/d/1o5hmYKzPzbIgj_nPrCDEbhAeOEs5Qobu/view?usp=sharing)
 
-[Week 3 Lecture](https://drive.google.com/file/d/1fxHucjUyE_crwmP7toTdSIlaXWjzzNrJ/view?usp=sharing)
+[3 Lecture](https://drive.google.com/file/d/1fxHucjUyE_crwmP7toTdSIlaXWjzzNrJ/view?usp=sharing)
 
-[Week 4 Lecture](https://drive.google.com/file/d/1Y1Tl3yZku4cqP3beFVJXWQMlVtvjvS3l/view?usp=sharing)
+[4 Lecture](https://drive.google.com/file/d/1Y1Tl3yZku4cqP3beFVJXWQMlVtvjvS3l/view?usp=sharing)
 
-[Week 5 Lecture](https://drive.google.com/file/d/1n5-dUfSeKT0o29ulS-Mnbs3ZvFY1mzPE/view?usp=sharing)
+[5 Lecture](https://drive.google.com/file/d/1n5-dUfSeKT0o29ulS-Mnbs3ZvFY1mzPE/view?usp=sharing)
 
-[Week 6 Lecture](https://drive.google.com/file/d/19mDDVsmUpK_4uvKm653Xt75yr6SvRl_u/view?usp=sharing)
+[6 Lecture](https://drive.google.com/file/d/19mDDVsmUpK_4uvKm653Xt75yr6SvRl_u/view?usp=sharing)
+
+[7 Lecture](https://drive.google.com/file/d/1Ce5Q_8dujQUbiWlcq6y7VPz3y3Cartqy/view?usp=sharing)
 
 ---
 ### Lab Solutions
