@@ -95,7 +95,7 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 ---
 ### Project
 
-[Project Requirements (DRAFT)](https://drive.google.com/file/d/1RR0eyaVdTxGO33qIvsLARFjEWwTkdUEn/view?usp=sharing)
+[Project Requirements](https://drive.google.com/file/d/1z8nQ8vxLv3pjtiAQ3gh5iK7QXa7SIiMF/view?usp=sharing)
 
 [Video Store Application (Mockups)](https://drive.google.com/file/d/1b0LjkTQVOjU20nvKMAq0Ag8Af-VR3Pxd/view?usp=sharing)
 
