@@ -94,6 +94,9 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 
 [Week 10 lab - Nov 7th & 9th](https://drive.google.com/file/d/1K-7SWwhWiG8fAxk_fjmcy3p8lmiAXA-_/view)
 
+[Week 11 lab](https://drive.google.com/file/d/1G3-zdzQfce0ri4qmbSPiTc699VdIoZ-b/view?usp=sharing)
+
+
 ---
 ### Project
 
