@@ -117,3 +117,8 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 [Video Store Application (Mockups)](https://drive.google.com/file/d/1b0LjkTQVOjU20nvKMAq0Ag8Af-VR3Pxd/view?usp=sharing)
 
 [Gamer Lobby Application (Mockups)](https://drive.google.com/file/d/1flHfBOk2yIEH1vSZFerSRm8Ku_Nh5AQx/view?usp=sharing)
+
+---
+### Review Classes Availability
+
+[Review Classes Availability Form](https://docs.google.com/forms/d/e/1FAIpQLSfMyyjbRmzuXe8md2nzvYA2NzYw7_ufVYKiCl0Vwp-zeAMpfw/viewform)
