@@ -120,6 +120,8 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 
 [Gamer Lobby Application (Mockups)](https://drive.google.com/file/d/1flHfBOk2yIEH1vSZFerSRm8Ku_Nh5AQx/view?usp=sharing)
 
+[Project Skeleton Application](https://drive.google.com/file/d/1Pt2PjVDnC16xtS8WLgqR6jPxI07xddrp/view?usp=sharing)
+
 ---
 ### Review Classes Availability
 
