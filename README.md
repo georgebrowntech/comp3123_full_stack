@@ -70,6 +70,8 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 
 [7 Lecture](https://drive.google.com/file/d/1Ce5Q_8dujQUbiWlcq6y7VPz3y3Cartqy/view?usp=sharing)
 
+[8 Lecture](https://drive.google.com/file/d/1jdyhpq6AIZN1HwxVNmNbfO1a2mABQ33h/view?usp=sharing)
+
 ---
 ### Lab Solutions
 [Lab 1](https://drive.google.com/file/d/1zVSCFRg0p1-2c46_REf8y8ChRC9luJgj/view?usp=sharing)
