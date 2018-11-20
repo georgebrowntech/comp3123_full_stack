@@ -132,5 +132,6 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 ### Midterm Exam Answers
 
 [Version A](https://drive.google.com/file/d/1pHBvqdLRAtjZ8TZmEV89Iz38jFZRfkVk/view?usp=sharing)
+
 [Version B](https://drive.google.com/file/d/1Ry5hjESv-W0c-RMRcujyJ3TdGwtKs0Ep/view?usp=sharing)
 
