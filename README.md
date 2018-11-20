@@ -109,11 +109,11 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 
 [Week 7 lab - Oct 17 & 19, 2018](https://drive.google.com/file/d/1HBgbwHGb6wlAAn8_QxmViQgOxgN1tFm3/view?usp=sharing)
 
-[Week 9 lab - Oct 31 & Nov 2nd](https://docs.google.com/document/d/1IEbP8JMG-7NE_ecwHucYvRG4tmqN_M5to6bjuwA9Qys/edit?usp=sharing)
+[Week 9  (lab 8) - Oct 31 & Nov 2nd](https://docs.google.com/document/d/1IEbP8JMG-7NE_ecwHucYvRG4tmqN_M5to6bjuwA9Qys/edit?usp=sharing)
 
-[Week 10 lab - Nov 7th & 9th](https://drive.google.com/file/d/1K-7SWwhWiG8fAxk_fjmcy3p8lmiAXA-_/view)
+[Week 10 (lab 9) - Nov 7th & 9th](https://drive.google.com/file/d/1K-7SWwhWiG8fAxk_fjmcy3p8lmiAXA-_/view)
 
-[Week 11 lab - Nov 14th & 16th](https://drive.google.com/file/d/1G3-zdzQfce0ri4qmbSPiTc699VdIoZ-b/view?usp=sharing)
+[Week 11 (lab 10)- Nov 14th & 16th](https://drive.google.com/file/d/1G3-zdzQfce0ri4qmbSPiTc699VdIoZ-b/view?usp=sharing)
 
 
 ---
