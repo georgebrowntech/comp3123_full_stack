@@ -88,6 +88,8 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 
 [Lab 6](https://drive.google.com/file/d/1wRZSkNLxpNp3_ybfzlxzM0HpWzlGssFe/view?usp=sharing)
 
+[Lab 8](https://drive.google.com/file/d/1SAEtn0dwBJnutgC70z_XNBXWsGh_l_Ee/view?usp=sharing)
+
 
 ---
 ### Labs
