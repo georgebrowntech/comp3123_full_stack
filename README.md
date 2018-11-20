@@ -128,3 +128,9 @@ JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-U
 ### Review Classes Availability
 
 [Review Classes Availability Form](https://docs.google.com/forms/d/e/1FAIpQLSfMyyjbRmzuXe8md2nzvYA2NzYw7_ufVYKiCl0Vwp-zeAMpfw/viewform)
+
+### Midterm Exam Answers
+
+[Version A](https://drive.google.com/file/d/1pHBvqdLRAtjZ8TZmEV89Iz38jFZRfkVk/view?usp=sharing)
+[Version B](https://drive.google.com/file/d/1Ry5hjESv-W0c-RMRcujyJ3TdGwtKs0Ep/view?usp=sharing)
+
