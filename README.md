@@ -147,9 +147,12 @@ Room: Lab C416
 
 Schedule:
 Nov 28 6-8pm
+
 Nov 29 6-8pm
-Dec 5. 6-8pm
-Dec 6. 6-8pm
+
+Dec 5  6-8pm
+
+Dec 6  6-8pm
 
 [Review Classes Availability Form](https://docs.google.com/forms/d/e/1FAIpQLSfMyyjbRmzuXe8md2nzvYA2NzYw7_ufVYKiCl0Vwp-zeAMpfw/viewform)
 
