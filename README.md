@@ -146,6 +146,7 @@ In case you are interested in what other people have to say about this course...
 Room: Lab C416
 
 Schedule:
+
 Nov 28 6-8pm
 
 Nov 29 6-8pm
