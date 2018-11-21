@@ -125,6 +125,9 @@ In case you are interested in what other people have to say about this course...
 
 [Week 11 (lab 10)- Nov 14th & 16th](https://drive.google.com/file/d/1G3-zdzQfce0ri4qmbSPiTc699VdIoZ-b/view?usp=sharing)
 
+[Week 12 (lab 11)- Nov 21st & 23rd](https://drive.google.com/file/d/1PO8V_g-oNRzfVEX3dpx8e43EfehrsYBl/view?usp=sharing)
+
+
 
 ---
 ### Project
