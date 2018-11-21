@@ -3,7 +3,7 @@
 Hey guys! Welcome to the COMP3123 Full Stack Development Course! Few things you need for this course
 
 ### Instructor
-Mike Denton (ping me on Slack for any questions)
+Mike Denton (mike.denton@georgebrown.ca)
 
 ### TA
 Alla Abramova (ping me on Slack for any questions)
@@ -49,8 +49,17 @@ In case you are interested in what other people have to say about this course...
 
 ### Useful Links
 JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
 [Javascript Tutorial](https://www.w3schools.com/js/default.asp)
+
+[ES6 Guide](https://flaviocopes.com/es6/)
+
+[MongoDB Docs](https://docs.mongodb.com/manual/reference/method/js-collection/)
+
+[Express API Reference](https://expressjs.com/en/4x/api.html)
+
+[Node.js Handbook](https://nodehandbook.com/)
+
+[Angular Doc](https://angular.io/docs)
 
 
 ---
