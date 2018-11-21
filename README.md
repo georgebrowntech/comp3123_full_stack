@@ -48,8 +48,7 @@ In case you are interested in what other people have to say about this course...
 ---
 
 ### Useful Links
-JavaScript References [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[Javascript Tutorial](https://www.w3schools.com/js/default.asp)
+[JavaScript References](developer.mozilla.org)
 
 [ES6 Guide](https://flaviocopes.com/es6/)
 
