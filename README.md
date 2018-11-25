@@ -102,6 +102,8 @@ In case you are interested in what other people have to say about this course...
 
 [Lab 10](https://drive.google.com/file/d/1TKTvapU12vDpwsuOovk36MeBCcxlnH8v/view?usp=sharing)
 
+[Lab 11](https://drive.google.com/file/d/1bOO5QXgFEAtzCam-I876aZeZ_h5aA3hG/view?usp=sharing)
+
 ---
 ### Labs
 
