@@ -131,10 +131,14 @@ In case you are interested in what other people have to say about this course...
 
 [Week 12 (lab 11)- Nov 21st & 23rd](https://drive.google.com/file/d/1PO8V_g-oNRzfVEX3dpx8e43EfehrsYBl/view?usp=sharing)
 
+[Week 13 (lab 12)- Nov 28th & 30th](https://drive.google.com/file/d/1PO8V_g-oNRzfVEX3dpx8e43EfehrsYBl/view?usp=sharing)
 
 
 ---
 ### Project
+
+[Project HELP Videos](https://www.youtube.com/playlist?list=PL-sKHDWXW5yCoBfyJYaoQwE_jv9CW-EC4)
+Hey guys! We created some help videos for you to get your project up and running. Will be adding more shortly!
 
 [Project Requirements](https://drive.google.com/file/d/1z8nQ8vxLv3pjtiAQ3gh5iK7QXa7SIiMF/view?usp=sharing)
 
