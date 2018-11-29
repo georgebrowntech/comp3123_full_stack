@@ -160,7 +160,7 @@ Schedule:
 
 Nov 28 6-8pm
 
-Nov 29 6-8pm
+Nov 29 6-8pm - CANCELLED. Sorry guys, I feel real sick today. Will be recording and posting help videos from home. Slack me if you need help
 
 Dec 5  6-8pm
 
