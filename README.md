@@ -112,7 +112,7 @@ In case you are interested in what other people have to say about this course...
 
 [Lab 13 LocalStorage](https://drive.google.com/file/d/1on7gJI1Hmb5DAUQewaYWmilWuPLxY2ak/view?usp=sharing)
 
-[Lab 13 JWT](https://drive.google.com/file/d/1lY43taLemy6q7XbKoP9CMnn90z99ubP0/view?usp=sharing)
+[Lab 13 Firebase Auth]
 ---
 ### Labs
 
