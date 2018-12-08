@@ -86,6 +86,8 @@ In case you are interested in what other people have to say about this course...
 
 [11 Lecture](https://drive.google.com/file/d/1tGGtdXqyXnKjzzEeAnaOng3wvcd9Jxms/view?usp=sharing)
 
+[12 Lecture](https://drive.google.com/file/d/1JOOjBaWMIN1b5LnVG_yCxid2GisllpZm/view?usp=sharing)
+
 ---
 ### Lab Solutions
 [Lab 1](https://drive.google.com/file/d/1zVSCFRg0p1-2c46_REf8y8ChRC9luJgj/view?usp=sharing)
