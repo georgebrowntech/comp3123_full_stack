@@ -183,3 +183,6 @@ Dec 6  6-8pm
 
 [Version B](https://drive.google.com/file/d/1Ry5hjESv-W0c-RMRcujyJ3TdGwtKs0Ep/view?usp=sharing)
 
+### Sample Final Exam Q/A
+[Sample Questions](https://drive.google.com/file/d/1BHhR-G47ApJePJVfhFGocJ94FDwLcGS0/view?usp=sharing)
+
