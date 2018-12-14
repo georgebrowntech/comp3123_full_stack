@@ -110,6 +110,8 @@ In case you are interested in what other people have to say about this course...
 
 [Lab 11](https://drive.google.com/file/d/1bOO5QXgFEAtzCam-I876aZeZ_h5aA3hG/view?usp=sharing)
 
+[Lab 11 HTTPClient GET](https://drive.google.com/file/d/1bOO5QXgFEAtzCam-I876aZeZ_h5aA3hG/view?usp=sharing)
+
 [Lab 12](https://drive.google.com/file/d/10APZCMGlZwe3ex0hGdlr9UZcV-zFty3K/view?usp=sharing)
 
 [Lab 13 LocalStorage](https://drive.google.com/file/d/1on7gJI1Hmb5DAUQewaYWmilWuPLxY2ak/view?usp=sharing)
