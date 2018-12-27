@@ -64,49 +64,49 @@ In case you are interested in what other people have to say about this course...
 ---
 
 ### Lecture Slides
-[1 Lecture](https://drive.google.com/file/d/1d_l78O5v9tcv2vLYULRl13zSQPSPGyN9/view?usp=sharing)
+[1 Lecture]
 
-[2 Lecture](https://drive.google.com/file/d/1o5hmYKzPzbIgj_nPrCDEbhAeOEs5Qobu/view?usp=sharing)
+[2 Lecture]
 
-[3 Lecture](https://drive.google.com/file/d/1fxHucjUyE_crwmP7toTdSIlaXWjzzNrJ/view?usp=sharing)
+[3 Lecture]
 
-[4 Lecture](https://drive.google.com/file/d/1Y1Tl3yZku4cqP3beFVJXWQMlVtvjvS3l/view?usp=sharing)
+[4 Lecture]
 
-[5 Lecture](https://drive.google.com/file/d/1n5-dUfSeKT0o29ulS-Mnbs3ZvFY1mzPE/view?usp=sharing)
+[5 Lecture]
 
-[6 Lecture](https://drive.google.com/file/d/19mDDVsmUpK_4uvKm653Xt75yr6SvRl_u/view?usp=sharing)
+[6 Lecture]
 
-[7 Lecture](https://drive.google.com/file/d/1Ce5Q_8dujQUbiWlcq6y7VPz3y3Cartqy/view?usp=sharing)
+[7 Lecture]
 
-[8 Lecture](https://drive.google.com/file/d/1jdyhpq6AIZN1HwxVNmNbfO1a2mABQ33h/view?usp=sharing)
+[8 Lecture]
 
-[9 Lecture](https://drive.google.com/file/d/1bMsTAW_65_4jLLrSCMcM51CNBG4_XdPM/view?usp=sharing)
+[9 Lecture]
 
-[10 Lecture](https://drive.google.com/file/d/1KeSyoa3X0ZXMnNK2JoJUbpFoZx_QmqUi/view?usp=sharing)
+[10 Lecture]
 
-[11 Lecture](https://drive.google.com/file/d/1tGGtdXqyXnKjzzEeAnaOng3wvcd9Jxms/view?usp=sharing)
+[11 Lecture]
 
-[12 Lecture](https://drive.google.com/file/d/1JOOjBaWMIN1b5LnVG_yCxid2GisllpZm/view?usp=sharing)
+[12 Lecture]
 
 ---
 ### Lab Solutions
-[Lab 1](https://drive.google.com/file/d/1zVSCFRg0p1-2c46_REf8y8ChRC9luJgj/view?usp=sharing)
+[Lab 1]
 
-[Lab 2](https://drive.google.com/file/d/1YQ7OfLqWxRFtdyCyZ4Mwckd_RY84zilK/view?usp=sharing)
+[Lab 2]
 
-[Lab 3](https://drive.google.com/file/d/1X4vAcLLLQk7krnpYF3EzTCKyIeLS-55F/view?usp=sharing)
+[Lab 3]
 
-[Lab 4](https://drive.google.com/file/d/1RkJSiY6mCygTadquQgf_r1cfuDrpPlYj/view?usp=sharingg)
+[Lab 4]
 
-[Lab 5](https://drive.google.com/file/d/1WBgc4zxFMKzTSYH9lpH4I6zhcCtXP7G5/view?usp=sharing)
+[Lab 5]
 
-[Lab 6](https://drive.google.com/file/d/1wRZSkNLxpNp3_ybfzlxzM0HpWzlGssFe/view?usp=sharing)
+[Lab 6]
 
-[Lab 8](https://drive.google.com/file/d/1SAEtn0dwBJnutgC70z_XNBXWsGh_l_Ee/view?usp=sharing)
+[Lab 8]
 
-[Lab 9](https://drive.google.com/file/d/1uHG8X7-ozdDxSuGTs8R4RGNcmsWwIhtJ/view?usp=sharing)
+[Lab 9]
 
-[Lab 10](https://drive.google.com/file/d/1TKTvapU12vDpwsuOovk36MeBCcxlnH8v/view?usp=sharing)
+[Lab 10]
 
 [Lab 11](https://drive.google.com/file/d/1bOO5QXgFEAtzCam-I876aZeZ_h5aA3hG/view?usp=sharing)
 
@@ -163,28 +163,4 @@ Hey guys! We created some help videos for you to get your project up and running
 [Project Skeleton Application](https://drive.google.com/file/d/1Pt2PjVDnC16xtS8WLgqR6jPxI07xddrp/view?usp=sharing)
 
 ---
-### Review Classes Availability
-
-Room: Lab C416
-
-Schedule:
-
-Nov 28 6-8pm
-
-Nov 29 6-8pm - CANCELLED. Sorry guys, I feel real sick today. Will be recording and posting help videos from home. Slack me if you need help
-
-Dec 5  6-8pm
-
-Dec 6  6-8pm
-
-[Review Classes Availability Form](https://docs.google.com/forms/d/e/1FAIpQLSfMyyjbRmzuXe8md2nzvYA2NzYw7_ufVYKiCl0Vwp-zeAMpfw/viewform)
-
-### Midterm Exam Answers
-
-[Version A](https://drive.google.com/file/d/1pHBvqdLRAtjZ8TZmEV89Iz38jFZRfkVk/view?usp=sharing)
-
-[Version B](https://drive.google.com/file/d/1Ry5hjESv-W0c-RMRcujyJ3TdGwtKs0Ep/view?usp=sharing)
-
-### Sample Final Exam Q/A
-[Sample Questions](https://drive.google.com/file/d/1BHhR-G47ApJePJVfhFGocJ94FDwLcGS0/view?usp=sharing)
 
