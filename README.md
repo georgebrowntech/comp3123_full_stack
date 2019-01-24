@@ -64,17 +64,17 @@ In case you are interested in what other people have to say about this course...
 ---
 
 ### Lecture Slides
-[1 Lecture]
+[1 Lecture](https://drive.google.com/file/d/1d_l78O5v9tcv2vLYULRl13zSQPSPGyN9/view?usp=sharing)
 
-[2 Lecture]
+[2 Lecture](https://drive.google.com/file/d/1o5hmYKzPzbIgj_nPrCDEbhAeOEs5Qobu/view?usp=sharing)
 
-[3 Lecture]
+[3 Lecture](https://drive.google.com/file/d/1fxHucjUyE_crwmP7toTdSIlaXWjzzNrJ/view?usp=sharing)
 
-[4 Lecture]
+[4 Lecture](https://drive.google.com/file/d/1Y1Tl3yZku4cqP3beFVJXWQMlVtvjvS3l/view?usp=sharing)
 
-[5 Lecture]
+[5 Lecture](https://drive.google.com/file/d/1n5-dUfSeKT0o29ulS-Mnbs3ZvFY1mzPE/view?usp=sharing)
 
-[6 Lecture]
+[6 Lecture](https://drive.google.com/file/d/19mDDVsmUpK_4uvKm653Xt75yr6SvRl_u/view?usp=sharing)
 
 [7 Lecture]
 
