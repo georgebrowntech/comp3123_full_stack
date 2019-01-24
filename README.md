@@ -90,17 +90,17 @@ In case you are interested in what other people have to say about this course...
 
 ---
 ### Lab Solutions
-[Lab 1]
+[Lab 1](https://drive.google.com/drive/folders/1ANkH2fI_vGko9nZGdODkR4KeDY16qYGT?usp=sharing)
 
-[Lab 2]
+[Lab 2](https://drive.google.com/drive/folders/1BW6sUTmgVvRwL1-L4C02HmtVbK4-NFGW?usp=sharing)
 
-[Lab 3]
+[Lab 3](https://drive.google.com/drive/folders/1bGTnUO_QSy8iSFUuTiR0AU3S5Bysc5fM?usp=sharing)
 
-[Lab 4]
+[Lab 4](https://drive.google.com/drive/folders/1Ze-HC3LfLDKBSI_vJJzVcySfHX72rSGf?usp=sharing)
 
 [Lab 5]
 
-[Lab 6]
+[Lab 6](https://drive.google.com/drive/folders/17MUC9L9c_jADW_Rq_e6laz_D6RxLpXj_?usp=sharing)
 
 [Lab 8]
 
