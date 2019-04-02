@@ -66,17 +66,17 @@ Here is a direct [link to signup](https://join.slack.com/t/georgebrowntech/signu
 
 [6 Lecture](https://drive.google.com/file/d/19mDDVsmUpK_4uvKm653Xt75yr6SvRl_u/view?usp=sharing)
 
-[7 Lecture]
+[7 Lecture](https://drive.google.com/file/d/1Ce5Q_8dujQUbiWlcq6y7VPz3y3Cartqy/view?usp=sharing)
 
-[8 Lecture]
+[8 Lecture](https://drive.google.com/file/d/1jdyhpq6AIZN1HwxVNmNbfO1a2mABQ33h/view?usp=sharing)
 
-[9 Lecture]
+[9 Lecture](https://drive.google.com/file/d/1bMsTAW_65_4jLLrSCMcM51CNBG4_XdPM/view?usp=sharing)
 
-[10 Lecture]
+[10 Lecture](https://drive.google.com/file/d/1KeSyoa3X0ZXMnNK2JoJUbpFoZx_QmqUi/view?usp=sharing)
 
-[11 Lecture]
+[11 Lecture](https://drive.google.com/file/d/1tGGtdXqyXnKjzzEeAnaOng3wvcd9Jxms/view?usp=sharing)
 
-[12 Lecture]
+[12 Lecture](https://drive.google.com/file/d/1JOOjBaWMIN1b5LnVG_yCxid2GisllpZm/view?usp=sharing)
 
 ---
 ### Lab Solutions
