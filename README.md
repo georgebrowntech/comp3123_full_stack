@@ -31,16 +31,6 @@ Here is a direct [link to signup](https://join.slack.com/t/georgebrowntech/signu
 
 ---
 
-### Feedback
-
-#### [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSduSZxsS5HRiJFSSs4tugpBG05370uC3bfjzOOYtynievWZpg/viewform) 
-
-Here you can send us your opinion/suggestion about the course. The more specific you are the more helpful :) 
-
-#### [Feedback Report](https://docs.google.com/spreadsheets/d/13eJfC01F84j-1C5nKp0g1U1Pc4TgTaLeO1zNvYw6rxI/edit?usp=sharing) 
-
-In case you are interested in what other people have to say about this course... 
-
 ---
 (Updated 11-03-18)
 ### Outline [link](https://docs.google.com/document/d/1yzMQ7pUXpwpdRlsLL3ur1H8aZ3xFUg1XhEGwucsgJzE/edit?usp=sharing)
