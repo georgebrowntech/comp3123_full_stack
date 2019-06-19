@@ -64,7 +64,7 @@ Here is a direct [link to signup](https://join.slack.com/t/georgebrowntech/signu
 
 [5 Lecture]
 
-[6 Lecture](https://drive.google.com/file/d/19mDDVsmUpK_4uvKm653Xt75yr6SvRl_u/view?usp=sharing)
+[6 Lecture]
 
 [7 Lecture](https://drive.google.com/file/d/1Ce5Q_8dujQUbiWlcq6y7VPz3y3Cartqy/view?usp=sharing)
 
