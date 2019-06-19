@@ -54,15 +54,15 @@ Here is a direct [link to signup](https://join.slack.com/t/georgebrowntech/signu
 ---
 
 ### Lecture Slides
-[1 Lecture](https://drive.google.com/file/d/1d_l78O5v9tcv2vLYULRl13zSQPSPGyN9/view?usp=sharing)
+[1 Lecture]
 
-[2 Lecture](https://drive.google.com/file/d/1o5hmYKzPzbIgj_nPrCDEbhAeOEs5Qobu/view?usp=sharing)
+[2 Lecture]
 
-[3 Lecture](https://drive.google.com/file/d/1fxHucjUyE_crwmP7toTdSIlaXWjzzNrJ/view?usp=sharing)
+[3 Lecture]
 
-[4 Lecture](https://drive.google.com/file/d/1Y1Tl3yZku4cqP3beFVJXWQMlVtvjvS3l/view?usp=sharing)
+[4 Lecture]
 
-[5 Lecture](https://drive.google.com/file/d/1n5-dUfSeKT0o29ulS-Mnbs3ZvFY1mzPE/view?usp=sharing)
+[5 Lecture]
 
 [6 Lecture](https://drive.google.com/file/d/19mDDVsmUpK_4uvKm653Xt75yr6SvRl_u/view?usp=sharing)
 
@@ -80,17 +80,17 @@ Here is a direct [link to signup](https://join.slack.com/t/georgebrowntech/signu
 
 ---
 ### Lab Solutions
-[Lab 1](https://drive.google.com/drive/folders/1ANkH2fI_vGko9nZGdODkR4KeDY16qYGT?usp=sharing)
+[Lab 1]
 
-[Lab 2](https://drive.google.com/drive/folders/1BW6sUTmgVvRwL1-L4C02HmtVbK4-NFGW?usp=sharing)
+[Lab 2]
 
-[Lab 3](https://drive.google.com/drive/folders/1bGTnUO_QSy8iSFUuTiR0AU3S5Bysc5fM?usp=sharing)
+[Lab 3]
 
-[Lab 4](https://drive.google.com/drive/folders/1Ze-HC3LfLDKBSI_vJJzVcySfHX72rSGf?usp=sharing)
+[Lab 4]
 
 [Lab 5]
 
-[Lab 6](https://drive.google.com/drive/folders/17MUC9L9c_jADW_Rq_e6laz_D6RxLpXj_?usp=sharing)
+[Lab 6]
 
 [Lab 8]
 
@@ -98,41 +98,35 @@ Here is a direct [link to signup](https://join.slack.com/t/georgebrowntech/signu
 
 [Lab 10]
 
-[Lab 11](https://drive.google.com/file/d/1bOO5QXgFEAtzCam-I876aZeZ_h5aA3hG/view?usp=sharing)
+[Lab 11]
 
-[Lab 11 HTTPClient GET](https://drive.google.com/file/d/1bOO5QXgFEAtzCam-I876aZeZ_h5aA3hG/view?usp=sharing)
-
-[Lab 12](https://drive.google.com/file/d/10APZCMGlZwe3ex0hGdlr9UZcV-zFty3K/view?usp=sharing)
-
-[Lab 13 LocalStorage](https://drive.google.com/file/d/1on7gJI1Hmb5DAUQewaYWmilWuPLxY2ak/view?usp=sharing)
-
-[Lab 13 Firebase Auth](https://drive.google.com/file/d/1u6HEwEJub4-ReEI-fnvkM-YG_i0gU3JF/view?usp=sharing)
+[Lab 12]
 ---
 ### Labs
 
-[Week 1 lab - Sept 5th & 7th, 2018](https://docs.google.com/document/d/1dBcPl7z8HVNt7X-uIGdXDztmLyF-5PbQ6sJUmqhLPIo/edit?usp=sharing)
+[Week 1 lab - Sept 5th & 7th, 2018]
 
-[Week 2 lab - Sept 12th & 14th, 2018](https://docs.google.com/document/d/1XwiYr7TOBRVEGJqWvupYA21iC8CpFrTE6QVpxWn-_K8/edit?usp=sharing)
+[Week 2 lab - Sept 12th & 14th, 2018]
 
-[Week 3 lab - Sept 19th & 21st, 2018](https://docs.google.com/document/d/1LW8Pv15w-uyvuBWL-mNk5335KBN3n7OzcNrYijG9Vu8/edit?usp=sharing)
+[Week 3 lab - Sept 19th & 21st, 2018]
 
-[Week 4 lab - Sept 26 & 28th, 2018](https://docs.google.com/document/d/1a5jpjSgw3HmL_Bb-h-gIeClRx7EIdMoQ6pXI_8Zis0s/edit?usp=sharing)
+[Week 4 lab - Sept 26 & 28th, 2018]
 
-[Week 5 lab - Node Test](https://drive.google.com/file/d/1f0cxdgMDx8GOPRMjDqraRo-zFMudCPAA/view?usp=sharing)
+[Week 5 lab - Node Test]
 
-[Week 6 lab - Oct 10 & 12, 2018](https://drive.google.com/file/d/1lvGPZch2aT4zKFjH6lBOtrbaHcQQe_uq/view?usp=sharing)
+[Week 6 lab - Oct 10 & 12, 2018]
 
-[Week 7 lab - Oct 17 & 19, 2018](https://drive.google.com/file/d/1HBgbwHGb6wlAAn8_QxmViQgOxgN1tFm3/view?usp=sharing)
+[Week 7 lab - Oct 17 & 19, 2018]
 
-[Week 9  (lab 8) - Oct 31 & Nov 2nd](https://docs.google.com/document/d/1IEbP8JMG-7NE_ecwHucYvRG4tmqN_M5to6bjuwA9Qys/edit?usp=sharing)
+[Week 9  (lab 8) - Oct 31 & Nov 2nd]
 
-[Week 10 (lab 9) - Nov 7th & 9th](https://drive.google.com/file/d/1K-7SWwhWiG8fAxk_fjmcy3p8lmiAXA-_/view)
+[Week 10 (lab 9) - Nov 7th & 9th]
 
-[Week 11 (lab 10)- Nov 14th & 16th](https://drive.google.com/file/d/1G3-zdzQfce0ri4qmbSPiTc699VdIoZ-b/view?usp=sharing)
+[Week 11 (lab 10)- Nov 14th & 16th]
 
-[Week 12 (lab 11)- Nov 21st & 23rd](https://drive.google.com/file/d/1PO8V_g-oNRzfVEX3dpx8e43EfehrsYBl/view?usp=sharing)
+[Week 12 (lab 11)- Nov 21st & 23rd]
 
-[Week 13 (lab 12)- Nov 28th & 30th](https://drive.google.com/file/d/1zOQNJHLahWUC_YDCazKmXei6Qu0ZxRHW/view)
+[Week 13 (lab 12)- Nov 28th & 30th]
 
 
 ---
@@ -144,13 +138,6 @@ Here is a direct [link to signup](https://join.slack.com/t/georgebrowntech/signu
 
 Hey guys! We created some help videos for you to get your project up and running. Will be adding more shortly!
 
-[Project Requirements](https://drive.google.com/file/d/1z8nQ8vxLv3pjtiAQ3gh5iK7QXa7SIiMF/view?usp=sharing)
-
-[Video Store Application (Mockups)](https://drive.google.com/file/d/1b0LjkTQVOjU20nvKMAq0Ag8Af-VR3Pxd/view?usp=sharing)
-
-[Gamer Lobby Application (Mockups)](https://drive.google.com/file/d/1flHfBOk2yIEH1vSZFerSRm8Ku_Nh5AQx/view?usp=sharing)
-
-[Project Skeleton Application](https://drive.google.com/file/d/1Pt2PjVDnC16xtS8WLgqR6jPxI07xddrp/view?usp=sharing)
 
 ---
 
