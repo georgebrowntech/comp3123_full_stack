@@ -60,7 +60,7 @@ Alla Abramova (alla.abramova@georgebrown.ca) [LinkedIn](https://www.linkedin.com
 [Week 1 lab - Sept 5th & 7th, 2018]
 
 Task 1. [Github Hello World](https://guides.github.com/activities/hello-world/)   
-Task 2. [Github Tutorial For Beginners](https://youtu.be/0fKg7e37bQE) . 
+Task 2. [Github Tutorial For Beginners](https://youtu.be/0fKg7e37bQE)  
 Task 3. [Watch Github Basics 5 videos](https://www.youtube.com/playlist?list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH)  
 Task 4. [Watch as many Github Training videos as you can](https://www.youtube.com/user/GitHubGuides/playlists)  
 
