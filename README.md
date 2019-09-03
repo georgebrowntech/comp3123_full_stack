@@ -65,6 +65,9 @@ Task 2. [Github Tutorial For Beginners](https://youtu.be/0fKg7e37bQE)
 Task 3. [Watch Github Basics (5 videos total)](https://www.youtube.com/playlist?list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH)  
 Task 4. [Watch as many Github Training videos as you can](https://www.youtube.com/user/GitHubGuides/playlists)  
 
+Good Reads:  
+[3 MISTAKES TO AVOID IF YOU WANT TO GET HIRED REMOTELY](https://x-team.com/blog/mistakes-remote-developers/)
+
 
 [Week 2 lab - Sept 12th & 14th, 2018]
 
