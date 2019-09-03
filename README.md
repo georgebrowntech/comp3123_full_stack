@@ -1,35 +1,10 @@
-# COMP3123 Full Stack Development Course
+# COMP3123 Full Stack Development Course (2019)
 
 Hey guys! Welcome to the COMP3123 Full Stack Development Course! Few things you need for this course
 
 ### Instructor
 Mike Denton (mike.denton@georgebrown.ca)
-
-### TA
-Alla Abramova (ping me on Slack for any questions)
-
----
-
-### TODO
-
-Register for github account for student. It'll allow you to create for free private repos where you'll be storing your code. Here is a link: https://education.github.com/pack
-
-If you already have a GitHub account you can sign it up for student account following the same link. Slack me if you have any questions.
-
-Alla
-
-### Tools
-
-#### [GitHub: github.com/georgebrowntech](https://github.com/georgebrowntech) 
-
-This is where all course materials live. 
-
-#### [Slack: georgebrowntech.slack.com](https://georgebrowntech.slack.com/) 
-
-We use Slack for collaboration. You can ask questions anyone including us or your fellow students.
-Here is a direct [link to signup](https://join.slack.com/t/georgebrowntech/signup)
-
----
+Alla Abramova (alla.abramova@georgebrown.ca) [LinkedIn](https://www.linkedin.com/in/alla-abramova-4a652297/)
 
 ---
 (Updated 11-03-18)
@@ -48,7 +23,7 @@ Here is a direct [link to signup](https://join.slack.com/t/georgebrowntech/signu
 
 [Node.js Handbook](https://nodehandbook.com/)
 
-[Angular Doc](https://angular.io/docs)
+[Angular Docs](https://angular.io/docs)
 
 
 ---
@@ -78,33 +53,15 @@ Here is a direct [link to signup](https://join.slack.com/t/georgebrowntech/signu
 
 [12 Lecture]
 
----
-### Lab Solutions
-[Lab 1]
 
-[Lab 2]
-
-[Lab 3]
-
-[Lab 4]
-
-[Lab 5]
-
-[Lab 6]
-
-[Lab 8]
-
-[Lab 9]
-
-[Lab 10]
-
-[Lab 11]
-
-[Lab 12]
 ---
 ### Labs
 
 [Week 1 lab - Sept 5th & 7th, 2018]
+
+Task 1. [GitHub Hello World](https://guides.github.com/activities/hello-world/)
+Task 2. [Watch GitHub Basics 5 videos](https://youtu.be/8oRjP8yj2Wo)
+Task 3. [Watch as many Github Training videos as you can](https://www.youtube.com/user/GitHubGuides/playlists)
 
 [Week 2 lab - Sept 12th & 14th, 2018]
 
@@ -128,16 +85,27 @@ Here is a direct [link to signup](https://join.slack.com/t/georgebrowntech/signu
 
 [Week 13 (lab 12)- Nov 28th & 30th]
 
-
 ---
-### Project
+### Lab Solutions
+[Lab 1]
 
-[Project HELP Videos](https://www.youtube.com/playlist?list=PL-sKHDWXW5yCoBfyJYaoQwE_jv9CW-EC4)
+[Lab 2]
 
-[Movadee GitHub repository](https://github.com/movadee/comp3123-student-app-skeleton)
+[Lab 3]
 
-Hey guys! We created some help videos for you to get your project up and running. Will be adding more shortly!
+[Lab 4]
 
+[Lab 5]
 
----
+[Lab 6]
+
+[Lab 8]
+
+[Lab 9]
+
+[Lab 10]
+
+[Lab 11]
+
+[Lab 12]
 
