@@ -2,8 +2,8 @@
 
 Hey guys! Welcome to the COMP3123 Full Stack Development Course! Few things you need for this course
 
-### Instructor
-Mike Denton (mike.denton@georgebrown.ca)
+### Instructors
+Mike Denton (mike.denton@georgebrown.ca) 
 Alla Abramova (alla.abramova@georgebrown.ca) [LinkedIn](https://www.linkedin.com/in/alla-abramova-4a652297/)
 
 ---
