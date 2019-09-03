@@ -7,8 +7,9 @@ Mike Denton (mike.denton@georgebrown.ca)
 Alla Abramova (alla.abramova@georgebrown.ca) [LinkedIn](https://www.linkedin.com/in/alla-abramova-4a652297/)
 
 ---
+
+### Outline [link](https://docs.google.com/document/d/1yzMQ7pUXpwpdRlsLL3ur1H8aZ3xFUg1XhEGwucsgJzE/edit?usp=sharing) 
 (Updated 11-03-18)
-### Outline [link](https://docs.google.com/document/d/1yzMQ7pUXpwpdRlsLL3ur1H8aZ3xFUg1XhEGwucsgJzE/edit?usp=sharing)
 
 ---
 
