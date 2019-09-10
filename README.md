@@ -71,6 +71,14 @@ Good Reads: [3 MISTAKES TO AVOID IF YOU WANT TO GET HIRED REMOTELY](https://x-te
 
 [Week 2 lab - Sept 12th & 14th, 2018]
 
+
+Task 1. [Angular - Setting up the Local Environment and Workspace](https://angular.io/guide/setup-local)   
+Task 2. [Angular - Getting Started: Your First App](https://angular.io/start)  
+Good Reads/Videos:  
+[The Difference Between a Framework and a Library](https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/)  
+[What To Learn Before A JavaScript Framework](https://www.youtube.com/watch?v=qi9VQqYcXqY)   
+
+
 [Week 3 lab - Sept 19th & 21st, 2018]
 
 [Week 4 lab - Sept 26 & 28th, 2018]
