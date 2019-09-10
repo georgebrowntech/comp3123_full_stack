@@ -75,6 +75,7 @@ Good Reads: [3 MISTAKES TO AVOID IF YOU WANT TO GET HIRED REMOTELY](https://x-te
 Task 1. [Angular - Setting up the Local Environment and Workspace](https://angular.io/guide/setup-local)   
 Task 2. [Angular - Getting Started: Your First App](https://angular.io/start)  
 Task 3: [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)   
+   
 Good Reads/Videos:  
 [The Difference Between a Framework and a Library](https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/)  
 [What To Learn Before A JavaScript Framework](https://www.youtube.com/watch?v=qi9VQqYcXqY)   
