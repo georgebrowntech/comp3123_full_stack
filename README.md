@@ -83,6 +83,7 @@ Good Reads/Videos:
 #### Week 3 lab - Sept, 2018]  
 
 Task 1: [Create a Web App and RESTful API Server Using the MEAN Stack](https://devcenter.heroku.com/articles/mean-apps-restful-api)   
+NOTE: Follow this short tutorial if you do not want to verify your Heroku account with a Credit Card (mind you, Heroku account is free, they are not going to charge you money) [LINK](https://medium.com/@naumanzafarchaudhry/using-mongodb-on-heroku-without-verifying-your-account-9053a8c42e3c)   
 Task 2 (optional): [Domain configuration using Heroku & GoDaddy](https://github.com/IcaliaLabs/guides/wiki/Domain-configuration-using-Heroku-&-GoDaddy)  
 SUBMISSION: [Submit your Heroku App link here](https://forms.gle/YWrgPZjMBW1GFaCV6)  
 
