@@ -60,7 +60,7 @@ Alla Abramova (alla.abramova@georgebrown.ca) [LinkedIn](https://www.linkedin.com
 ---
 ### Labs
 
-##### Week 1 lab - Sept, 2019  
+#### Week 1 lab - Sept, 2019  
 
 Task 1. [Github Hello World](https://guides.github.com/activities/hello-world/)   
 Task 2. [Github Tutorial For Beginners](https://youtu.be/0fKg7e37bQE)  
@@ -69,7 +69,7 @@ Task 4. [Watch as many Github Training videos as you can](https://www.youtube.co
 Good Reads: [3 MISTAKES TO AVOID IF YOU WANT TO GET HIRED REMOTELY](https://x-team.com/blog/mistakes-remote-developers/)
 
 
-##### Week 2 lab - Sept, 2019  
+#### Week 2 lab - Sept, 2019  
 
 Task 1. [Angular - Setting up the Local Environment and Workspace](https://angular.io/guide/setup-local)   
 Task 2. [Angular - Getting Started: Your First App](https://angular.io/start)  
@@ -80,7 +80,7 @@ Good Reads/Videos:
 [What To Learn Before A JavaScript Framework](https://www.youtube.com/watch?v=qi9VQqYcXqY)   
 
 
-##### Week 3 lab - Sept, 2018]  
+#### Week 3 lab - Sept, 2018]  
 
 Task: [Create a Web App and RESTful API Server Using the MEAN Stack](https://devcenter.heroku.com/articles/mean-apps-restful-api)   
 SUBMISSION: [Submit your Heroku App link here](https://forms.gle/YWrgPZjMBW1GFaCV6)  
