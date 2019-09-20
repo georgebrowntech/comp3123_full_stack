@@ -9,7 +9,7 @@ Alla Abramova (alla.abramova@georgebrown.ca) [LinkedIn](https://www.linkedin.com
 
 ---
 
-### Outline [link](https://docs.google.com/document/d/1lGIRS3KBx4Oj_T9QL_AZdJC5wmC7GRQT8C0CDIdLisA/edit?usp=sharing) 
+### Course Outline [link](https://docs.google.com/document/d/1lGIRS3KBx4Oj_T9QL_AZdJC5wmC7GRQT8C0CDIdLisA/edit?usp=sharing) 
 (Updated 09-04-19)
 
 ---
@@ -36,7 +36,7 @@ Alla Abramova (alla.abramova@georgebrown.ca) [LinkedIn](https://www.linkedin.com
 
 [2 Lecture](https://drive.google.com/file/d/1jIKMkJQZpDI-i5OSI-nKmuNbLQ98Nah3/view?usp=sharing)
 
-[3 Lecture]
+[3 Lecture](https://drive.google.com/open?id=1qijzLyb6H6Op1AXwBrYonlaCzp2ieuag)
 
 [4 Lecture]
 
