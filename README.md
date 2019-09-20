@@ -91,6 +91,10 @@ SUBMISSION: [Submit your Heroku App link here](https://forms.gle/YWrgPZjMBW1GFaC
 
 
 #### Week 4 lab - Sept, 2019   
+
+ANNOUNCEMENT: Alla Abramova labs are cancelled (ou still can do the lab 
+
+
 #### Week 5 lab - Oct, 2019   
 #### Week 6 lab - Oct, 2019   
 #### Week 7 lab - Oct, 2019   
