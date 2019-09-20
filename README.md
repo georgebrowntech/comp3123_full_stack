@@ -82,7 +82,7 @@ Good Reads/Videos:
 [What To Learn Before A JavaScript Framework](https://www.youtube.com/watch?v=qi9VQqYcXqY)   
 
 
-#### Week 3 lab - Sept, 2018]  
+#### Week 3 lab - Sept, 2019   
 
 Task 1: [Create a Web App and RESTful API Server Using the MEAN Stack](https://devcenter.heroku.com/articles/mean-apps-restful-api)   
 NOTE: Follow this short tutorial if you do not want to verify your Heroku account with a Credit Card (mind you, Heroku account is free, they are not going to charge you money) [LINK](https://medium.com/@naumanzafarchaudhry/using-mongodb-on-heroku-without-verifying-your-account-9053a8c42e3c)   
@@ -90,21 +90,14 @@ Task 2 (optional): [Domain configuration using Heroku & GoDaddy](https://github.
 SUBMISSION: [Submit your Heroku App link here](https://forms.gle/YWrgPZjMBW1GFaCV6)  
 
 
-[Week 4 lab - Sept 26 & 28th, 2018]
-
-[Week 5 lab - Node Test]
-
-[Week 6 lab - Oct 10 & 12, 2018]
-
-[Week 7 lab - Oct 17 & 19, 2018]
-
-[Week 9  (lab 8) - Oct 31 & Nov 2nd]
-
-[Week 10 (lab 9) - Nov 7th & 9th]
-
-[Week 11 (lab 10)- Nov 14th & 16th]
-
-[Week 12 (lab 11)- Nov 21st & 23rd]
-
-[Week 13 (lab 12)- Nov 28th & 30th]
+#### Week 4 lab - Sept, 2019   
+#### Week 5 lab - Oct, 2019   
+#### Week 6 lab - Oct, 2019   
+#### Week 7 lab - Oct, 2019   
+#### Week 8 lab - Oct, 2019   
+#### Week 9 lab - Nov, 2019   
+#### Week 10 lab - Nov, 2019   
+#### Week 11 lab - Nov, 2019   
+#### Week 12 lab - Nov, 2019   
+#### Week 13 lab - Dec, 2019   
 
