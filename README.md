@@ -92,7 +92,10 @@ SUBMISSION: [Submit your Heroku App link here](https://forms.gle/YWrgPZjMBW1GFaC
 
 #### Week 4 lab - Sept, 2019   
 
-ANNOUNCEMENT: Alla Abramova labs are cancelled (ou still can do the lab 
+ANNOUNCEMENT: Hey guys! I (Alla) am not able to attend labs on Tuesday, Sept 24 (4pm-6pm) and Friday, Sept 27 (4pm-6pm). For those who need to catchup I will do an additional class next week on Thur (Oct 3) 5pm - 7pm. PLEASE DO YOUR BEST TO COMPLETE YOUR LAB:
+
+Task 1: [Get fsmiliar with VS Code nd start using it while coding](https://code.visualstudio.com/docs/getstarted/introvideos)
+Task 2: [Tour of Heroes App and Tutorial - UP UNTIL and INCLUDING STEP 3](https://angular.io/tutorial)
 
 
 #### Week 5 lab - Oct, 2019   
