@@ -109,3 +109,7 @@ SUBMIT your work to your GitHub account
 #### Week 12 lab - Nov, 2019   
 #### Week 13 lab - Dec, 2019   
 
+#### Exercises
+[Exercise 1](https://drive.google.com/file/d/1I2wumsuKXGcjNmv_Nuq_y1gGH0NyYo4w/view?usp=sharing)
+[Exercise 2](https://docs.google.com/document/d/1JEQprNf593Taj0fgxrPJ4T-ANnZftgl-j-EMiao5mHI/edit?usp=sharing)
+[Exercise 3](https://drive.google.com/file/d/1IriyZ-0objIr4YQoXiBVm-wYZnhox6II/view?usp=sharing)
