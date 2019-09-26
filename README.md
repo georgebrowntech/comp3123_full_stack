@@ -40,7 +40,7 @@ Alla Abramova (alla.abramova@georgebrown.ca) [LinkedIn](https://www.linkedin.com
 [3 Lecture](https://drive.google.com/open?id=1qijzLyb6H6Op1AXwBrYonlaCzp2ieuag)
 [3 Demo](https://drive.google.com/open?id=1EUARVglOOUTNeSJWFduxKn6PWh1HtewO)
 
-[4 Lecture]
+[4 Lecture](https://drive.google.com/file/d/1mKZm_9amGlsCESk-6BYLoD_l88l40uhI/view?usp=sharing)
 
 [5 Lecture]
 
