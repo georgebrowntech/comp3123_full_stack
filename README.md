@@ -13,6 +13,7 @@ Alla Abramova (alla.abramova@georgebrown.ca) [LinkedIn](https://www.linkedin.com
 Quiz 1 (NAI5WG)
 
 Quiz 2 (XONIKT)
+
 ---
 
 ### Course Outline [link](https://docs.google.com/document/d/1lGIRS3KBx4Oj_T9QL_AZdJC5wmC7GRQT8C0CDIdLisA/edit?usp=sharing) 
