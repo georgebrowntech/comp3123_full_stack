@@ -11,6 +11,7 @@ Alla Abramova (alla.abramova@georgebrown.ca) [LinkedIn](https://www.linkedin.com
 ### Quiz Makup Codes
 
 Quiz 1 (NAI5WG)
+
 Quiz 2 (XONIKT)
 ---
 
