@@ -8,13 +8,6 @@ Mike Denton (mike.denton@georgebrown.ca)  [LinkedIn](https://www.linkedin.com/in
 Alla Abramova (alla.abramova@georgebrown.ca) [LinkedIn](https://www.linkedin.com/in/alla-abramova-4a652297/)
 
 ---
-### Quiz Makup Codes
-
-Quiz 1 (NAI5WG)
-
-Quiz 2 (XONIKT)
-
----
 
 ### Course Outline [link](https://docs.google.com/document/d/1lGIRS3KBx4Oj_T9QL_AZdJC5wmC7GRQT8C0CDIdLisA/edit?usp=sharing) 
 (Updated 09-04-19)
