@@ -94,12 +94,20 @@ SUBMISSION: [Submit your Heroku App link here](https://forms.gle/YWrgPZjMBW1GFaC
 
 ANNOUNCEMENT: Hey guys! I (Alla) am not able to attend labs on Tuesday, Sept 24 (4pm-6pm) and Friday, Sept 27 (4pm-6pm). For those who need to catchup I will do an additional class next week on Thur (Oct 3) 5pm - 7pm. PLEASE DO YOUR BEST TO COMPLETE YOUR LAB:
 
-Task 1: [Get fsmiliar with VS Code nd start using it while coding](https://code.visualstudio.com/docs/getstarted/introvideos)   
+Task 1: [Get familiar with VS Code and start using it while coding](https://code.visualstudio.com/docs/getstarted/introvideos)   
 Task 2: [Tour of Heroes App and Tutorial - UP UNTIL and INCLUDING STEP 3](https://angular.io/tutorial)  
 SUBMIT your work to your GitHub account
 
 
 #### Week 5 lab - Oct, 2019   
+
+ANNOUNCEMENT: Hey guys! I (Alla) might be a bit late to lab on Tuesday, Oct 1st (4pm-6pm). PLEASE START DOING THE LAB.   
+
+Additional lab on Thur (Oct 3) 5pm - 7pm IS CANCELLED because it overlaps with your lecture that day. I will post additional labs schedule later this week.
+  
+Task 1: [Tour of Heroes Tutorial - STEP 4 - Services](https://angular.io/tutorial/toh-pt4)   
+SUBMIT your work to your GitHub account
+
 #### Week 6 lab - Oct, 2019   
 #### Week 7 lab - Oct, 2019   
 #### Week 8 lab - Oct, 2019   
