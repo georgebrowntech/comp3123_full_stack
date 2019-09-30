@@ -101,7 +101,7 @@ SUBMIT your work to your GitHub account
 
 #### Week 5 lab - Oct, 2019   
 
-ANNOUNCEMENT: Hey guys! I (Alla) might be a bit late to lab on Tuesday, Oct 1st (4pm-6pm). PLEASE START DOING THE LAB.   
+ANNOUNCEMENT: Hey guys! I (Alla) might be a bit late to lab on Tuesday, Oct 1st (4pm-6pm). PLEASE START DOING THE LAB without waiting for me.   
 
 Additional lab on Thur (Oct 3) 5pm - 7pm IS CANCELLED because it overlaps with your lecture that day. I will post additional labs schedule later this week.
   
