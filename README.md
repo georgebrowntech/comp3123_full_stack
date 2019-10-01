@@ -59,7 +59,7 @@ Alla Abramova (alla.abramova@georgebrown.ca) [LinkedIn](https://www.linkedin.com
 [12 Lecture]
 
 ---
-### HEROKU/MONGO WIKI (Lab 3)
+### HEROKU/MONGO SETUP (Lab 3 - Step by Step)
 [Wiki](https://github.com/sultamuh/heroku_mean_stack/wiki)
 ---
 ### Labs
