@@ -106,6 +106,7 @@ ANNOUNCEMENT: Hey guys! I (Alla) might be a bit late to lab on Tuesday, Oct 1st 
 Additional lab on Thur (Oct 3) 5pm - 7pm IS CANCELLED because it overlaps with your lecture that day. I will post additional labs schedule later this week.
   
 Task 1: [Tour of Heroes Tutorial - STEP 4 - Services](https://angular.io/tutorial/toh-pt4)   
+Task 2: [Tour of Heroes Tutorial - STEP 5 - Routing](https://angular.io/tutorial/toh-pt5)   
 SUBMIT your work to your GitHub account
 
 #### Week 6 lab - Oct, 2019   
