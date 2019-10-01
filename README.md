@@ -7,6 +7,8 @@ Mike Denton (mike.denton@georgebrown.ca)  [LinkedIn](https://www.linkedin.com/in
 
 Alla Abramova (alla.abramova@georgebrown.ca) [LinkedIn](https://www.linkedin.com/in/alla-abramova-4a652297/)
 
+### Student Mentor
+Talha Sultan (MuhammadTalha.Sultan@georgebrown.ca)
 ---
 
 ### Course Outline [link](https://docs.google.com/document/d/1lGIRS3KBx4Oj_T9QL_AZdJC5wmC7GRQT8C0CDIdLisA/edit?usp=sharing) 
