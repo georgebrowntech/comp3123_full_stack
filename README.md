@@ -116,6 +116,12 @@ Task 2: [Tour of Heroes Tutorial - STEP 5 - Routing](https://angular.io/tutorial
 SUBMIT your work to your GitHub account
 
 #### Week 6 lab - Oct, 2019   
+
+ANNOUNCEMENT: Hey guys! I (Alla) will be at C410 lab each Tuesday from 6pm-8pm to help you with labs, questions and project work.
+  
+Task 1: [Tour of Heroes Tutorial - STEP 6 - HTTP](https://angular.io/tutorial/toh-pt6)   
+SUBMIT your work to your GitHub account
+   
 #### Week 7 lab - Oct, 2019   
 #### Week 8 lab - Oct, 2019   
 #### Week 9 lab - Nov, 2019   
