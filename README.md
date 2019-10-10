@@ -120,6 +120,8 @@ SUBMIT your work to your GitHub account
 ANNOUNCEMENT: Hey guys! I (Alla) will be at C410 lab each Tuesday from 6pm-8pm to help you with labs, questions and project work.
   
 Task 1: [Tour of Heroes Tutorial - STEP 6 - HTTP](https://angular.io/tutorial/toh-pt6)   
+Task 2: [Template Form Tutorial](https://angular.io/guide/forms)
+
 SUBMIT your work to your GitHub account
    
 #### Week 7 lab - Oct, 2019   
