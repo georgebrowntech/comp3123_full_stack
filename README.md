@@ -126,7 +126,7 @@ Task 2: [Template Form Tutorial](https://angular.io/guide/forms)
 SUBMIT your work to your GitHub account
    
 #### Week 7 lab - Oct, 2019   
-MIDTERM PREP WEEK. NO LAB   
+Lab is happenng today! :)
 
 #### Week 8 lab - Oct, 2019   
 #### Week 9 lab - Nov, 2019   
