@@ -126,9 +126,13 @@ Task 2: [Template Form Tutorial](https://angular.io/guide/forms)
 SUBMIT your work to your GitHub account
    
 #### Week 7 lab - Oct, 2019   
-Lab is happenng today! :)
+General lab to catchup on previous labs.   
 
-#### Week 8 lab - Oct, 2019   
+#### Week 8 lab - Oct - start Nov, 2019   
+
+Task 1: [Angular Feature Module](https://angular.io/guide/feature-modules)
+Task 2: []
+   
 #### Week 9 lab - Nov, 2019   
 #### Week 10 lab - Nov, 2019   
 #### Week 11 lab - Nov, 2019   
