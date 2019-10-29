@@ -132,8 +132,8 @@ General lab to catchup on previous labs.
 
 #### Week 8 lab - Oct - start Nov, 2019   
 
-Task 1: [Angular Feature Module](https://angular.io/guide/feature-modules)
-Task 2: [Build CRUD App with Angular](https://www.positronx.io/angular-8-mean-stack-tutorial-build-crud-angular-material/)  
+Task 1: [Build CRUD App with Angular](https://www.positronx.io/angular-8-mean-stack-tutorial-build-crud-angular-material/)   
+Task 2: [Angular Feature Module](https://angular.io/guide/feature-modules)   
    
 #### Week 9 lab - Nov, 2019   
 #### Week 10 lab - Nov, 2019   
