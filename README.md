@@ -132,7 +132,8 @@ General lab to catchup on previous labs.
 
 #### Week 8 lab - Oct - start Nov, 2019  
 
-Perequisits: MongoDB https://www.mongodb.com/download-center/community?jmp=docs   
+Download: [MongoDB](https://www.mongodb.com/download-center/community?jmp=docs)   
+Download: [Postman](https://www.getpostman.com/)   
 
 Task 1: [Build CRUD App with Angular](https://www.positronx.io/angular-8-mean-stack-tutorial-build-crud-angular-material/)   
 Task 2: [Angular Feature Module](https://angular.io/guide/feature-modules)   
