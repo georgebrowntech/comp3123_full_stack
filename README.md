@@ -139,6 +139,10 @@ Task 1: [Build CRUD App with Angular](https://www.positronx.io/angular-8-mean-st
 Task 2: [Angular Feature Module](https://angular.io/guide/feature-modules)   
    
 #### Week 9 lab - Nov, 2019   
+
+Task 1 (continue from last week): [Build CRUD App with Angular](https://www.positronx.io/angular-8-mean-stack-tutorial-build-crud-angular-material/)   
+
+
 #### Week 10 lab - Nov, 2019   
 #### Week 11 lab - Nov, 2019   
 #### Week 12 lab - Nov, 2019   
