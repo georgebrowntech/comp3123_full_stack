@@ -14,7 +14,7 @@ Talha Sultan (MuhammadTalha.Sultan@georgebrown.ca)
 ---
 
 ### Course Outline [link](https://docs.google.com/document/d/1lGIRS3KBx4Oj_T9QL_AZdJC5wmC7GRQT8C0CDIdLisA/edit?usp=sharing) 
-(Updated 10-01-19)
+(Updated 11-06-19)
 
 ---
 
