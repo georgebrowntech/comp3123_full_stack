@@ -57,7 +57,7 @@ Talha Sultan (MuhammadTalha.Sultan@georgebrown.ca)
 
 [8 Lecture](https://drive.google.com/file/d/1OwfAXyUfLYXBnaZlaBUEwsOVuTN3KQYm/view?usp=sharing)
 
-[9 Lecture]
+[9 Lecture](https://drive.google.com/file/d/17ySbGGKUX7DGG_Pri2ZQJavWAjqeJden/view?usp=sharing)
 
 [10 Lecture]
 
