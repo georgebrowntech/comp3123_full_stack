@@ -148,7 +148,7 @@ Task: [Building A REST API With MongoDB, Mongoose, And Node.js](https://www.thep
 
 #### Week 11 lab - Nov, 2019   
 
-Task: [JSON WEB Authentication with Angular 8 and NodeJS](https://blog.soshace.com/json-web-authentication-with-angular-8-and-nodejs/)   
+Task: [Route guards](https://angular.io/guide/router#milestone-5-route-guards)   
 
 
 #### Week 12 lab - Nov, 2019   
