@@ -147,8 +147,8 @@ Task 1 (continue from last week): [Build CRUD App with Angular](https://www.posi
 Task: [Building A REST API With MongoDB, Mongoose, And Node.js](https://www.thepolyglotdeveloper.com/2019/02/building-rest-api-mongodb-mongoose-nodejs/)   
 
 #### Week 11 lab - Nov, 2019   
-
-Task: [Route guards](https://angular.io/guide/router#milestone-5-route-guards)   
+Task 1: Open project from lab 9 or your final project and build a Auth inside of it.   
+Task 2: [Route guards](https://angular.io/guide/router#milestone-5-route-guards)   
 
 
 #### Week 12 lab - Nov, 2019   
