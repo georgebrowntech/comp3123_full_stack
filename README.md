@@ -147,6 +147,10 @@ Task 1 (continue from last week): [Build CRUD App with Angular](https://www.posi
 Task: [Building A REST API With MongoDB, Mongoose, And Node.js](https://www.thepolyglotdeveloper.com/2019/02/building-rest-api-mongodb-mongoose-nodejs/)   
 
 #### Week 11 lab - Nov, 2019   
+
+Task: [JSON WEB Authentication with Angular 8 and NodeJS](https://blog.soshace.com/json-web-authentication-with-angular-8-and-nodejs/)   
+
+
 #### Week 12 lab - Nov, 2019   
 #### Week 13 lab - Dec, 2019   
 
