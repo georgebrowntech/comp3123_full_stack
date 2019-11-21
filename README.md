@@ -154,9 +154,9 @@ Task 2: [Route guards](https://angular.io/guide/router#milestone-5-route-guards)
 #### Week 12 lab - Nov, 2019   
 #### Week 13 lab - Dec, 2019   
 
-## 2018 Lab Work
+# **** 2018 Lab Work ****
 
-#### Node.Js Labs
+### Node.Js Labs
 [Lab 1](https://drive.google.com/open?id=1dBcPl7z8HVNt7X-uIGdXDztmLyF-5PbQ6sJUmqhLPIo)
 
 [Lab 2](https://drive.google.com/open?id=1XwiYr7TOBRVEGJqWvupYA21iC8CpFrTE6QVpxWn-_K8)
@@ -171,7 +171,7 @@ Task 2: [Route guards](https://angular.io/guide/router#milestone-5-route-guards)
 
 [Lab 7](https://drive.google.com/open?id=1HBgbwHGb6wlAAn8_QxmViQgOxgN1tFm3)
 
-#### Angular Labs
+### Angular Labs
 [Lab 8](https://drive.google.com/open?id=1IEbP8JMG-7NE_ecwHucYvRG4tmqN_M5to6bjuwA9Qys)
 
 [Lab 9](https://drive.google.com/open?id=18YDXW03UztyYMMWou9SX35N-4-LjLXi7rW1c9tqTvNw)
