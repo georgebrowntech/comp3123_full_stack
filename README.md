@@ -154,11 +154,20 @@ Task 2: [Route guards](https://angular.io/guide/router#milestone-5-route-guards)
 #### Week 12 lab - Nov, 2019   
 #### Week 13 lab - Dec, 2019   
 
-#### Exercises
-Angular Exercises
+## 2018 Lab Work
 
-[Exercise 1](https://drive.google.com/file/d/1I2wumsuKXGcjNmv_Nuq_y1gGH0NyYo4w/view?usp=sharing)
+#### Node.Js Labs
+1 (https://drive.google.com/open?id=1dBcPl7z8HVNt7X-uIGdXDztmLyF-5PbQ6sJUmqhLPIo)
+2 (https://drive.google.com/open?id=1XwiYr7TOBRVEGJqWvupYA21iC8CpFrTE6QVpxWn-_K8)
+3 (https://drive.google.com/open?id=1LW8Pv15w-uyvuBWL-mNk5335KBN3n7OzcNrYijG9Vu8)
+4 (https://drive.google.com/open?id=1a5jpjSgw3HmL_Bb-h-gIeClRx7EIdMoQ6pXI_8Zis0s)
+5
+6 (https://drive.google.com/open?id=1lvGPZch2aT4zKFjH6lBOtrbaHcQQe_uq)
+7 (https://drive.google.com/open?id=1HBgbwHGb6wlAAn8_QxmViQgOxgN1tFm3)
 
-[Exercise 2](https://docs.google.com/document/d/1JEQprNf593Taj0fgxrPJ4T-ANnZftgl-j-EMiao5mHI/edit?usp=sharing)
-
-[Exercise 3](https://drive.google.com/file/d/1IriyZ-0objIr4YQoXiBVm-wYZnhox6II/view?usp=sharing)
+#### Angular Labs
+8 (https://drive.google.com/open?id=1IEbP8JMG-7NE_ecwHucYvRG4tmqN_M5to6bjuwA9Qys)
+9 (https://drive.google.com/open?id=18YDXW03UztyYMMWou9SX35N-4-LjLXi7rW1c9tqTvNw)
+10(https://drive.google.com/open?id=1G3-zdzQfce0ri4qmbSPiTc699VdIoZ-b)
+11(https://drive.google.com/open?id=1PO8V_g-oNRzfVEX3dpx8e43EfehrsYBl)
+12(https://drive.google.com/open?id=1zOQNJHLahWUC_YDCazKmXei6Qu0ZxRHW)
