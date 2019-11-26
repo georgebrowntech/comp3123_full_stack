@@ -152,6 +152,10 @@ Task 2: [Route guards](https://angular.io/guide/router#milestone-5-route-guards)
 
 
 #### Week 12 lab - Nov, 2019   
+
+[Starting with Authentication (A tutorial with Node.js and MongoDB)](https://medium.com/createdd-notes/starting-with-authentication-a-tutorial-with-node-js-and-mongodb-25d524ca0359)   
+
+#### Week 12 lab - Nov, 2019    
 #### Week 13 lab - Dec, 2019   
 
 # **** 2018 Lab Work ****
