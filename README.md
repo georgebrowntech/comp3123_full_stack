@@ -18,7 +18,14 @@ Talha Sultan (MuhammadTalha.Sultan@georgebrown.ca)
 
 ---
 
-### Coure Project [link](https://drive.google.com/file/d/18de8vQaykffl5Q1TGFLewAzqqNxizzyj/view?usp=sharing)
+### COURSE PROJECT [link](https://drive.google.com/file/d/18de8vQaykffl5Q1TGFLewAzqqNxizzyj/view?usp=sharing)
+
+---
+### HEROKU/MONGO SETUP & DEPLOYMENT
+[Heroku/Mongo Setup](https://github.com/sultamuh/heroku_mean_stack/wiki)
+
+[Heroku Deployment](https://github.com/sultamuh/heroku_deployment/wiki/Heroku-Deployment)
+
 
 ### Useful Links
 [JavaScript References](developer.mozilla.org)
@@ -65,9 +72,7 @@ Talha Sultan (MuhammadTalha.Sultan@georgebrown.ca)
 
 [12 Lecture]
 
----
-### HEROKU/MONGO SETUP (Lab 3 - Step by Step)
-[Wiki](https://github.com/sultamuh/heroku_mean_stack/wiki)
+
 ---
 ### Labs
 
