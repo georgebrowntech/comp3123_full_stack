@@ -169,7 +169,7 @@ Task 2: [Route guards](https://angular.io/guide/router#milestone-5-route-guards)
 
 [Lab 4](https://drive.google.com/open?id=1a5jpjSgw3HmL_Bb-h-gIeClRx7EIdMoQ6pXI_8Zis0s)
 
-5
+[Lab 5 (Node Test)](https://drive.google.com/open?id=1WBgc4zxFMKzTSYH9lpH4I6zhcCtXP7G5)
 
 [Lab 6](https://drive.google.com/open?id=1lvGPZch2aT4zKFjH6lBOtrbaHcQQe_uq)
 
