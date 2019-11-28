@@ -22,7 +22,7 @@ Talha Sultan (MuhammadTalha.Sultan@georgebrown.ca)
 
 [Requirements](https://drive.google.com/file/d/18de8vQaykffl5Q1TGFLewAzqqNxizzyj/view?usp=sharing)
 
-[Submission SpreadSheet](https://docs.google.com/spreadsheets/d/1JX8_M6mML78Q9jOrfg-dVkn3Ahrc3W_yFAi8UTu2e5g/edit?usp=sharing)
+[Project Submission SpreadSheet](https://docs.google.com/spreadsheets/d/1JX8_M6mML78Q9jOrfg-dVkn3Ahrc3W_yFAi8UTu2e5g/edit?usp=sharing)
 
 
 ### HEROKU/MONGO SETUP & DEPLOYMENT
@@ -30,7 +30,10 @@ Talha Sultan (MuhammadTalha.Sultan@georgebrown.ca)
 
 [Heroku Deployment](https://github.com/sultamuh/heroku_deployment/wiki/Heroku-Deployment)
 
+---
 
+### LAB SUBMISSION
+[Lab Submission SpreadSheet](https://docs.google.com/spreadsheets/d/1sDEGZuVAuMgQaxSL-aGrtakNDgOvmCB8cTTAiyDFJNM/edit?usp=sharing)
 ---
 
 ### Lecture Slides
