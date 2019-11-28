@@ -32,21 +32,6 @@ Talha Sultan (MuhammadTalha.Sultan@georgebrown.ca)
 
 
 ---
-### Useful Links
-[JavaScript References](developer.mozilla.org)
-
-[ES6 Guide](https://flaviocopes.com/es6/)
-
-[MongoDB Docs](https://docs.mongodb.com/manual/reference/method/js-collection/)
-
-[Express API Reference](https://expressjs.com/en/4x/api.html)
-
-[Node.js Handbook](https://nodehandbook.com/)
-
-[Angular Docs](https://angular.io/docs)
-
-
----
 
 ### Lecture Slides
 [1 Lecture](https://drive.google.com/file/d/1d-3sb3lJrzd5k7i2fifx7XUePM8P4MoC/view?usp=sharing)
@@ -195,3 +180,17 @@ Task 2: [Route guards](https://angular.io/guide/router#milestone-5-route-guards)
 [Lab 11](https://drive.google.com/open?id=1PO8V_g-oNRzfVEX3dpx8e43EfehrsYBl)
 
 [Lab 12](https://drive.google.com/open?id=1zOQNJHLahWUC_YDCazKmXei6Qu0ZxRHW)
+
+---
+### Useful Links
+[JavaScript References](developer.mozilla.org)
+
+[ES6 Guide](https://flaviocopes.com/es6/)
+
+[MongoDB Docs](https://docs.mongodb.com/manual/reference/method/js-collection/)
+
+[Express API Reference](https://expressjs.com/en/4x/api.html)
+
+[Node.js Handbook](https://nodehandbook.com/)
+
+[Angular Docs](https://angular.io/docs)
