@@ -185,6 +185,7 @@ Task 2: [Route guards](https://angular.io/guide/router#milestone-5-route-guards)
 [Lab 11](https://drive.google.com/open?id=1PO8V_g-oNRzfVEX3dpx8e43EfehrsYBl)
 
 [Lab 12](https://drive.google.com/open?id=1zOQNJHLahWUC_YDCazKmXei6Qu0ZxRHW)
+[Solution](https://drive.google.com/open?id=10APZCMGlZwe3ex0hGdlr9UZcV-zFty3K)
 
 ---
 ### Useful Links
