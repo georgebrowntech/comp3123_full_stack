@@ -23,7 +23,7 @@ Talha Sultan (MuhammadTalha.Sultan@georgebrown.ca)
 [Requirements](https://drive.google.com/file/d/18de8vQaykffl5Q1TGFLewAzqqNxizzyj/view?usp=sharing)
 
 ### PROJECT SUBMISSION
-[Project Git Repository SpreadSheet](https://docs.google.com/spreadsheets/d/1JX8_M6mML78Q9jOrfg-dVkn3Ahrc3W_yFAi8UTu2e5g/edit?usp=sharing)
+[Project Git Repository](https://classroom.github.com/a/ZU14lwsz)
 
 ### HEROKU/MONGO SETUP & DEPLOYMENT
 [Heroku/Mongo Setup](https://github.com/sultamuh/heroku_mean_stack/wiki)
