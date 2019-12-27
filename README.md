@@ -34,7 +34,7 @@ Talha Sultan (MuhammadTalha.Sultan@georgebrown.ca)
 
 ### LAB SUBMISSION
 
-[Lab Git Repository SpreadSheet](https://docs.google.com/spreadsheets/d/1sDEGZuVAuMgQaxSL-aGrtakNDgOvmCB8cTTAiyDFJNM/edit?usp=sharing)
+[Lab Git Repository SpreadSheet]
 
 ---
 
